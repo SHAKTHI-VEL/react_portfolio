@@ -12,10 +12,10 @@ function Hero() {
         <div className='text-4xl font-mono text-semibold text-[#141C3A] md:text-6xl '>
             Hi! I AM
         </div>
-        <div className='text-6xl font-mono text-semibold text-[#9747FF]'>
+        <div className='text-5xl font-mono text-semibold text-[#9747FF] md:text-6xl'>
             Shakthivel
         </div>
-        <div className='text-6xl font-mono text-semibold text-[#9747FF]'>
+        <div className='text-5xl font-mono text-semibold text-[#9747FF] md:text-6xl'>
             Arumugam
         </div>
         <div className='text-5xl font-serif text-semibold text-[#141C3A] mt-5'>

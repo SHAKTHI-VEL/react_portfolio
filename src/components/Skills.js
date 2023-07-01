@@ -29,16 +29,16 @@ function Skills() {
         <img src={require('../assets/mongodb.png')} alt=""/>
         </div>
         
-        <div className='w-[20%] ml-[2px] mt-2 md:w-[10%] ml-[10%] mt-7 ' data-aos="fade-up"  data-aos-delay="100">
+        <div className='w-[20%] ml-[1px] mt-2 md:w-[10%] ml-[11%] mt-7 ' data-aos="fade-up"  data-aos-delay="100">
         <img src={require('../assets/cplus.png')} alt=""/>
         </div>
-        <div className='w-[20%] ml-[6%] mt-2 md:w-[10%] ml-[6%] mt-7' data-aos="fade-up"  data-aos-delay="100">
+        <div className='w-[20%] ml-[6%] mt-2 md:w-[10%] ml-[1%] mt-7' data-aos="fade-up"  data-aos-delay="100">
         <img src={require('../assets/react.png')} alt=""/>
         </div>
-        <div className='w-[20%] ml-[8%] mt-2 md:w-[10%] ml-[5%] mt-7' data-aos="fade-up"  data-aos-delay="100">
+        <div className='w-[20%] ml-[9%] mt-2 md:w-[10%] ml-[1%] mt-7' data-aos="fade-up"  data-aos-delay="100">
         <img src={require('../assets/github.png')} alt=""/>
         </div>
-        <div className='w-[20%] ml-[2%] mt-2 md:w-[10%] ml-[8%] mt-7 mx-28' data-aos="fade-up"  data-aos-delay="100">
+        <div className='w-[20%] ml-[2%] mt-2 md:w-[10%] ml-[5%] mt-7 mx-28' data-aos="fade-up"  data-aos-delay="100">
         <img src={require('../assets/api.png')} alt=""/>
         </div>
         </div>

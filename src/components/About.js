@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
   return (
     <div id="about">
-      <div className='h-[800px] bg-[#15A6A6] rounded-3xl mt-20 md:h-100 lg:h-96'>
+      <div className='h-[820px] bg-[#15A6A6] rounded-3xl mt-20 md:h-100 lg:h-96'>
       <div className=' absolute mt-5'>
       <div className='text-6xl ml-7  text-white font-extrabold'>
         About

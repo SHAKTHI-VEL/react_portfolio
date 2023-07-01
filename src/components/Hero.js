@@ -5,11 +5,11 @@ function Hero() {
 
 
   return (
-    <div className='flex flex-row justify-between h-full'>
+    <div className='flex flex-row justify-between h-96 md:h-full'>
     <>
-    <div className='mt-28 ml-20'>
+    <div className='mt-20 ml-7 md:mt-28 ml-20'>
         <div>
-        <div className='text-6xl font-mono text-semibold text-[#141C3A]'>
+        <div className='text-4xl font-mono text-semibold text-[#141C3A] md:text-6xl '>
             Hi! I AM
         </div>
         <div className='text-6xl font-mono text-semibold text-[#9747FF]'>
@@ -31,7 +31,7 @@ function Hero() {
           /></span>
         </div>
         <div>
-            
+
         </div>
         </div>
     </div>

@@ -7,9 +7,9 @@ function Navbar() {
             <div className='font-serif text-5xl ml-8 text-[#15A6A6]'>
                 Shakthivel
             </div>
-            <div>
+            <div className=''>
             <ul>
-                <div className='flex flex-wrap'>
+                <div className='hidden md:flex flex-wrap lg:flex flex-wrap'>
                 <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="#">Home</a></li>
                 <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="#skills">Skills</a></li>
                 <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="#about">About</a></li>

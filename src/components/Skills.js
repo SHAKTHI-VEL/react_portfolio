@@ -29,7 +29,7 @@ function Skills() {
         <img src={require('../assets/mongodb.png')} alt=""/>
         </div>
         
-        <div className='w-[20%] ml-[1px] mt-2 md:w-[10%] ml-[11%] mt-7 ' data-aos="fade-up"  data-aos-delay="100">
+        <div className='w-[20%] ml-[1px] mt-2 md:w-[10%] ml-[13%] mt-7 ' data-aos="fade-up"  data-aos-delay="100">
         <img src={require('../assets/cplus.png')} alt=""/>
         </div>
         <div className='w-[20%] ml-[6%] mt-2 md:w-[10%] ml-[1%] mt-7' data-aos="fade-up"  data-aos-delay="100">

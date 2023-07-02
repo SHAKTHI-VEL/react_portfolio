@@ -29,10 +29,10 @@ function Skills() {
         <img src={require('../assets/mongodb.png')} alt=""/>
         </div>
         
-        <div className='w-[20%] ml-[1px] mt-2 md:w-[10%] ml-36 mt-7 ' data-aos="fade-up"  data-aos-delay="100">
+        <div className='w-[20%] ml-[1px] mt-2 md:w-[10%] ml-[120px] mt-7 ' data-aos="fade-up"  data-aos-delay="100">
         <img src={require('../assets/cplus.png')} alt=""/>
         </div>
-        <div className='w-[20%] ml-[6%] mt-2 md:w-[10%] ml-[12px] px-3  mt-7' data-aos="fade-up"  data-aos-delay="100">
+        <div className='w-[20%] ml-[6%] mt-2 md:w-[10%] ml-[90px] px-3  mt-7' data-aos="fade-up"  data-aos-delay="100">
         <img src={require('../assets/react.png')} alt=""/>
         </div>
         <div className='w-[20%] ml-[9%] mt-2 md:w-[10%] ml-1 mt-7' data-aos="fade-up"  data-aos-delay="100">

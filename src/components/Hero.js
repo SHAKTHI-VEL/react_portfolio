@@ -5,7 +5,7 @@ function Hero() {
 
 
   return (
-    <div className='flex flex-row justify-between h-96 md:h-full'>
+    <div className='flex flex-row justify-between h-full'>
     <>
     <div className='mt-20 ml-7 md:mt-28 ml-20'>
         <div>
@@ -18,7 +18,7 @@ function Hero() {
         <div className='text-5xl font-mono text-semibold text-[#9747FF] md:text-6xl'>
             Arumugam
         </div>
-        <div className='text-5xl font-serif text-semibold text-[#141C3A] mt-5'>
+        <div className='text-5xl font-serif text-semibold text-[#141C3A] mt-16 md:mt-5'>
             I am into{' '}<span className=''><Typewriter
             words={['Backend Development', 'App Development', 'Engineering']}
             loop={false}

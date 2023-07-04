@@ -15,7 +15,7 @@ function Projects() {
     <div className='text-4xl ml-5 text-[#141C3A]'>
       Projects
     </div>
-    <div className='flex flex-wrap mx-10 mt-5'>
+    <div className='flex flex-wrap mx-10 mt-5 space-x-10'>
     <Card_one />
     <Card_two/>
     <Card_three/>

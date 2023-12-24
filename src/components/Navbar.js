@@ -14,7 +14,7 @@ function Navbar() {
                 <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="#skills">Skills</a></li>
                 <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="#about">About</a></li>
                 <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="#projects">Projects</a></li>
-                <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="https://drive.google.com/file/d/1hSxFXO0I-bf3t5skaFK_4SxyjXFFl2Lb/view">Resume</a></li>
+                <li className='font-semibold font-serif text-4xl mx-7 text-[#15A6A6] hover:text-[#9747FF]'><a href="https://drive.google.com/file/d/1MRMXMKIuxVY3v98zfmA1FwNsXLcHuAs1/view?usp=drive_link">Resume</a></li>
                 </div>
                 </ul>
             </div>
